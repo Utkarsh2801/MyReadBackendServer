@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Unlocking Android",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+    "authors": ["W. Frank Ableson", "Charlie Collins", "Robi Sen"],
+    "shelf": "currently reading"
+  },
+  {
+    "title": "Android in Action, Second Edition",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
+    "authors": ["W. Frank Ableson", "Robi Sen"],
+    "shelf": "currently reading"
+  },
+  {
+    "title": "Specification by Example",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
+    "authors": ["Gojko Adzic"],
+    "shelf": "Want to read"
+  },
+  {
+    "title": "Flex 3 in Action",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
+    "authors": ["Tariq Ahmed with Jon Hirschi", "Faisal Abid"],
+    "shelf": "Want to read"
+  },
+  {
+    "title": "Flex 4 in Action",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg",
+    "authors": ["Tariq Ahmed", "Dan Orlando", "John C. Bland II", "Joel Hooks"],
+    "shelf": "Read"
+  },
+  {
+    "title": "Collective Intelligence in Action",
+    "imageUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+    "authors": ["Satnam Alag"],
+    "shelf": "Read"
+  }
+]
