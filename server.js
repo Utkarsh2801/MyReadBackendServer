@@ -14,3 +14,10 @@ app.use("/", routes);
 app.listen(PORT, () => {
   console.log("Server is running");
 });
+
+app.use((err, req, res, next) => {
+  res.status(400).json({
+    success: false,
+    message: err.message
+  });
+});

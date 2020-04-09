@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
 const colors = require("colors");
 
-mongoConnect = async function() {
-  await mongoose.connect("mongodb://localhost:27017/myread", {
+mongoConnect = async function () {
+  await mongoose.connect(MONGO_URL, {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
   });
 
   console.log("Database Connected".green.inverse);
